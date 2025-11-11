@@ -83,7 +83,6 @@ O Android Studio fará as alterações necessárias nos arquivos build.gradle do
 ## ​📌​ Registro Page
 <img width="250" alt="App" src="https://github.com/user-attachments/assets/649c0661-e45f-4c4d-90b7-c4993a05064c" /></p>
 
-
 ## ​📌​ Home Page
 <img width="250" alt="App" src="https://github.com/user-attachments/assets/80c1c0a1-6cda-4c5f-8f1e-b73b7143baff" /></p>
 <img width="250" alt="App" src="https://github.com/user-attachments/assets/03db5403-56c8-469f-b76f-d476a7eda74d" /></p>
@@ -92,8 +91,10 @@ O Android Studio fará as alterações necessárias nos arquivos build.gradle do
 <img width="250" alt="App" src="https://github.com/user-attachments/assets/4181e30a-68e1-435c-9e01-8c52b168f065" /></p>
 <img width="250" alt="App" src="https://github.com/user-attachments/assets/c8087f66-500f-44cc-b0d8-4685693525ea" /></p>
 
-
 ## ​📌​ Banco de Dados
 <img width="650" alt="App" src="https://github.com/user-attachments/assets/3bb58e83-cd85-4b04-b3e8-369a28afee3b" /></p>
 <img width="650" alt="App" src="https://github.com/user-attachments/assets/5ba5a80d-804d-4130-a982-dbbed4fd4261" /></p>
 <img width="650" alt="App" src="https://github.com/user-attachments/assets/273d6c9c-11d4-4e65-8a25-12d4907b6ecc" /></p
+
+## ​📌​ Android Studio
+<img width="650" alt="App" src="https://github.com/user-attachments/assets/ec5ec04f-8448-4ed9-9031-851f3b645713" /></p
