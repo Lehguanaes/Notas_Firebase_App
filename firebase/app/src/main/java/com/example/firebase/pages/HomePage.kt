@@ -1,7 +1,7 @@
 package com.example.firebase.pages
 
 import android.util.Log
-import androidx.compose.foundation.Image // Import necessário para a Image
+import androidx.compose.foundation.Image 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -14,13 +14,13 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
-import androidx.compose.ui.res.painterResource // Import necessário para painterResource
+import androidx.compose.ui.res.painterResource 
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.firebase.R // Import necessário para seus drawables
+import com.example.firebase.R 
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.ListenerRegistration
