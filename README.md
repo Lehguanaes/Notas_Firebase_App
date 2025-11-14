@@ -71,26 +71,26 @@ O Android Studio fará as alterações necessárias nos arquivos build.gradle do
 ## 📲 Imagens do Projeto
 
 ## ​📌​ Ícone
-<img width="250" alt="App" src="https://github.com/user-attachments/assets/b3dfa8cb-3c5e-49f8-ac5e-ae30111239f0" /></p>
+<img width="250" alt="App" src="https://github.com/user-attachments/assets/b3dfa8cb-3c5e-49f8-ac5e-ae30111239f0" />
 
 ## ​📌​ Login Page
-<img width="250" alt="App" src="https://github.com/user-attachments/assets/933bfcee-4a9d-415e-8b6a-2703e57be948" /></p>
+<img width="250" alt="App" src="https://github.com/user-attachments/assets/933bfcee-4a9d-415e-8b6a-2703e57be948" />
 
 ## ​📌​ Registro Page
-<img width="250" alt="App" src="https://github.com/user-attachments/assets/649c0661-e45f-4c4d-90b7-c4993a05064c" /></p>
+<img width="250" alt="App" src="https://github.com/user-attachments/assets/649c0661-e45f-4c4d-90b7-c4993a05064c" />
 
 ## ​📌​ Home Page
-<img width="250" alt="App" src="https://github.com/user-attachments/assets/80c1c0a1-6cda-4c5f-8f1e-b73b7143baff" /></p>
-<img width="250" alt="App" src="https://github.com/user-attachments/assets/03db5403-56c8-469f-b76f-d476a7eda74d" /></p>
-<img width="250" alt="App" src="https://github.com/user-attachments/assets/f3619fea-535f-4c52-9cd9-c5b6500972b2" /></p>
-<img width="250" alt="App" src="https://github.com/user-attachments/assets/f74e1629-5b83-41af-a7fa-bb8581941fc4" /></p>
-<img width="250" alt="App" src="https://github.com/user-attachments/assets/4181e30a-68e1-435c-9e01-8c52b168f065" /></p>
-<img width="250" alt="App" src="https://github.com/user-attachments/assets/c8087f66-500f-44cc-b0d8-4685693525ea" /></p>
+<img width="250" alt="App" src="https://github.com/user-attachments/assets/80c1c0a1-6cda-4c5f-8f1e-b73b7143baff" />
+<img width="250" alt="App" src="https://github.com/user-attachments/assets/03db5403-56c8-469f-b76f-d476a7eda74d" />
+<img width="250" alt="App" src="https://github.com/user-attachments/assets/f3619fea-535f-4c52-9cd9-c5b6500972b2" />
+<img width="250" alt="App" src="https://github.com/user-attachments/assets/f74e1629-5b83-41af-a7fa-bb8581941fc4" />
+<img width="250" alt="App" src="https://github.com/user-attachments/assets/4181e30a-68e1-435c-9e01-8c52b168f065" />
+<img width="250" alt="App" src="https://github.com/user-attachments/assets/c8087f66-500f-44cc-b0d8-4685693525ea" />
 
 ## ​📌​ Banco de Dados
-<img width="650" alt="App" src="https://github.com/user-attachments/assets/3bb58e83-cd85-4b04-b3e8-369a28afee3b" /></p>
-<img width="650" alt="App" src="https://github.com/user-attachments/assets/5ba5a80d-804d-4130-a982-dbbed4fd4261" /></p>
-<img width="650" alt="App" src="https://github.com/user-attachments/assets/273d6c9c-11d4-4e65-8a25-12d4907b6ecc" /></p
+<img width="650" alt="App" src="https://github.com/user-attachments/assets/3bb58e83-cd85-4b04-b3e8-369a28afee3b" />
+<img width="650" alt="App" src="https://github.com/user-attachments/assets/5ba5a80d-804d-4130-a982-dbbed4fd4261" />
+<img width="650" alt="App" src="https://github.com/user-attachments/assets/273d6c9c-11d4-4e65-8a25-12d4907b6ecc" />
 
 ## ​📌​ Android Studio
-<img width="650" alt="App" src="https://github.com/user-attachments/assets/ec5ec04f-8448-4ed9-9031-851f3b645713" /></p
+<img width="650" alt="App" src="https://github.com/user-attachments/assets/ec5ec04f-8448-4ed9-9031-851f3b645713" />
