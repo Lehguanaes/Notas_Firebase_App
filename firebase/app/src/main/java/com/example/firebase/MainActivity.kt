@@ -16,7 +16,7 @@ import androidx.navigation.navArgument
 import com.example.firebase.pages.HomePage
 import com.example.firebase.pages.LoginPage
 import com.example.firebase.pages.RegisterPage
-import com.example.firebase.ui.theme.FirebaseTheme // Certifique-se que o nome do seu tema está correto
+import com.example.firebase.ui.theme.FirebaseTheme 
 import com.google.firebase.auth.FirebaseAuth
 
 class MainActivity : ComponentActivity() {
@@ -46,7 +46,7 @@ fun AppNavigation() {
         composable("login") {
             LoginPage(
                 onLogin = { userName ->
-                    // Navega para a home passando o apelido e limpa a pilha
+                    // Navega para a home passando o apelido
                     navController.navigate("home/$userName") {
                         popUpTo("login") { inclusive = true }
                     }
@@ -74,7 +74,7 @@ fun AppNavigation() {
             )
         }
 
-        // Rota 3: Tela de Registro (Seu código)
+        // Rota 3: Tela de Registro 
         composable("register") {
             RegisterPage(
                 // Ambas as ações voltam para a tela de Login
