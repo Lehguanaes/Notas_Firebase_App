@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=af35c3&size=35&center=true&vCenter=true&width=1000&lines=Aplicativo+de+Bloco+de+Notas!;Utilizando+firebase+e+Kotlin!)](https://git.io/typing-svg)
 
-Este projeto demonstra a integração de um aplicativo Kotlin (Android) com o Firebase Cloud Firestore, permitindo armazenar e ler dados de forma simples.
+Este projeto demonstra a integração de um aplicativo Kotlin (Android) com o Firebase Cloud Firestore, contendo interfaces para CRUD completo das notas de cada usuário.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -62,15 +62,11 @@ O Android Studio fará as alterações necessárias nos arquivos build.gradle do
 
 - Salvar documentos no Firestore;
 
-- Listar documentos de uma coleção.
+- Listar documentos de uma coleção;
 
-## 📌 Próximos Passos
+- Autenticação de usuários;
 
-- Implementar autenticação de usuários;
-
-- Criar interface para CRUD completo;
-
-- Adicionar regras de segurança no Firestore.
+- Interface para CRUD completo das notas de cada usuário.
   
 ## 📲 Imagens do Projeto
 
